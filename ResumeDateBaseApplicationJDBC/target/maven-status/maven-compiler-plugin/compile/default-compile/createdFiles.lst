@@ -1,0 +1,17 @@
+com\company\main\Main.class
+com\compnay\beans\Country.class
+com\company\dao\impl\EmploymentHistoryDaoImpl.class
+com\company\dao\impl\UserDaoImpl.class
+com\compnay\beans\EmploymentHistory.class
+com\compnay\beans\Skill.class
+com\compnay\beans\Users.class
+com\company\dao\inter\AbstractDAO.class
+com\company\dao\impl\UserSkillDaoImpl.class
+com\company\dao\impl\CountryDaoImpl.class
+com\company\dao\inter\UserSkillDaoInter.class
+com\company\dao\inter\CountryDaoInter.class
+com\compnay\beans\UserSkills.class
+com\company\dao\impl\SkillDaoImpl.class
+com\company\dao\inter\SkillDaoInter.class
+com\company\dao\inter\EmploymentHistoryDaoInter.class
+com\company\dao\inter\UserDaoInter.class
